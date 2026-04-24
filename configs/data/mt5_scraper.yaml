@@ -1,0 +1,6 @@
+symbol: "XAUUSD"
+timeframe: "M5"      
+timezone: "Etc/UTC"
+start_date: "2018-01-01"
+end_date: "2024-12-31"
+output_path: "data/raw/mt5/xauusd_m5_raw.csv"

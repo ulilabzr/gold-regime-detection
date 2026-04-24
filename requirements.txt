@@ -1,0 +1,9 @@
+pandas
+numpy 
+MetaTrader5
+torch
+scikit-learn
+matplotlib
+yfinance
+loguru
+python-dotenv
